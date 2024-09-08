@@ -1,6 +1,6 @@
-Snatch the Snack**
+**Snatch the Snack**
 My first-ever game built using Pygame! Pong inspires this simple yet aesthetic game but with a fun twist: a bouncing carrot and a hungry rabbit. 
-The goal is simple: move the rabbit and catch the flying carrot. If the carrot hits the rabbit, you score! How fast can you snack on it? Getting Started**
+The goal is simple: move the rabbit and catch the flying carrot. If the carrot hits the rabbit, you score! How fast can you snack on it? Getting Started
 
 **Step 1:** Install pygameBefore you can start snatching those carrots,  Run this command in your terminal: pip install pygame
 
